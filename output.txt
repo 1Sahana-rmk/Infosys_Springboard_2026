@@ -1,1 +1,5 @@
-
+The product is excellent --> Score: 5
+Very bad experience --> Score: -3
+Good and nice quality --> Score: 5
+Worst service ever --> Score: -5
+Average performance --> Score: 1
